@@ -1,0 +1,46 @@
+#header {
+ background-color:#EEEEEE;
+ color:black;
+ text-align:center;
+ padding:5px;
+ }
+#nav {
+ background-color:#D8D8D8;
+
+ text-align:center;
+ padding:15px;
+ 
+
+ }
+ #nav a{
+
+ 	font-family: Arial;
+ 	font-size: 20px; 
+ 	padding: 7px ;
+ 	text-decoration: none;
+    
+
+ }
+ #inicio{
+ 	font-family: "calibri", Garamond, 'Comic Sans';
+ 	text-align: center;
+ 	font-size: 70px;
+ 	color:red;
+ 	 background-color: lightgreen;
+}
+ #img img{
+ 	margin-left: 10em;
+ 	margin-top: 5em;
+ }
+ #img a{
+ 	margin-left: -5em;
+ 	margin-top: 5em;
+ }
+ #acercade{
+ 	text-align: justify;
+    -moz-text-align-last: center;
+    text-align-last: center;
+
+ 	font-family: Comic Sans MS;
+ }
+ 
